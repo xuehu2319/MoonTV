@@ -77,5 +77,66 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     }
+    "kbzy": {
+      "api": "https://gayapi.com/api.php/provide/vod",
+      "name": "快播资源"
+    }
+    "sex8zy": {
+      "api": "https://xingba222.com/api.php/provide/vod/",
+      "name": "杏吧资源"
+    }
+    "yutuzy": {
+      "api": "https://apiyutu.com/api.php/providedao/vod/",
+      "name": "玉兔资源"
+    }
+     "danaizi": {
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "name": "大奶子资源"
+    }
+     "hsckzy": {
+      "api": "https://hsckzy.vip/api.php/provide/vod",
+      "name": "黄色仓库资源"
+    }
+     "xjzy": {
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "name": "小鸡资源"
+    }
+     "xxibaozyw": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "name": "X细胞资源"
+    }
+     "souav": {
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "name": "搜av资源"
+    }
+    "fqm3u8": {
+      "api": "https://fqzy.me//api.php/provide/vod",
+      "name": "番茄资源"
+    }
+    "siwazyw": {
+      "api": "https://siwazyw.tv/api.php/provide/vod",
+      "name": "丝袜资源"
+    }
+    "semaozy": {
+      "api": "https://caiji.semaozy.net/inc",
+      "name": "色猫资源"
+    }
+    "apilj": {
+      "api": "https://apilj.com/api.php/Seacms/vod",
+      "name": "辣椒资源"
+    }
+    "155m3u8": {
+      "api": "https://155api.com/api.php/provide/vod",
+      "name": "155资源"
+    }
+    "naixx": {
+      "api": "https://naixxzy.com/api.php/provide/vod",
+      "name": "奶香香资源"
+    }
+    "jkunzy": {
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "name": "jkun资源"
+    }
+    
   }
 }
